@@ -5,10 +5,10 @@
 Either clone the repository using Git:
 
 ````bash
-git clone git@github.com:OHIF/Viewers.git
+git clone git@github.com:ShaldonHe/Viewers.git
 ````
 
-or [Download the latest Master as a ZIP File](https://github.com/OHIF/Viewers/archive/master.zip).
+or [Download the latest Master as a ZIP File](https://github.com/ShaldonHe/Viewers/archive/master.zip).
 
 ## Set up a DICOM server
 

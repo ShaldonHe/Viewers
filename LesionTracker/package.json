@@ -27,12 +27,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/OHIF/Viewers.git"
+    "url": "https://github.com/ShaldonHe/Viewers.git"
   },
   "author": "OHIF",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OHIF/Viewers/issues"
+    "url": "https://github.com/ShaldonHe/Viewers/issues"
   },
-  "homepage": "https://github.com/OHIF/Viewers"
+  "homepage": "https://github.com/ShaldonHe/Viewers"
 }

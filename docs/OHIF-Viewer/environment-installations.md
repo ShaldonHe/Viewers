@@ -271,7 +271,7 @@ Expected result:
 
 9. Open the terminal, go to your Home folder, and run the following command in order to clone viewers repository to your local:
 
-git clone https://github.com/OHIF/Viewers.git
+git clone https://github.com/SheldonHe/Viewers.git
 
 Expected result:
 

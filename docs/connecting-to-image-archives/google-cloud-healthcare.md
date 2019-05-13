@@ -59,7 +59,7 @@ The [ohif/viewer-google-cloud](https://cloud.docker.com/u/ohif/repository/docker
 1. [Install Meteor](https://www.meteor.com/install)
 1. Clone the repository
 ```bash
-git clone https://github.com/OHIF/Viewers.git
+git clone https://github.com/ShaldonHe/Viewers.git
 cd Viewers
 ```
 

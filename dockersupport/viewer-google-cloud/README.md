@@ -3,7 +3,7 @@ This folder contains the instructions for building the ohif/viewer-google-cloud 
 1. [Install Meteor](https://www.meteor.com/install)
 1. Clone the repository
 ```bash
-git clone https://github.com/OHIF/Viewers.git
+git clone https://github.com/ShaldonHe/Viewers.git
 cd Viewers
 ```
 
