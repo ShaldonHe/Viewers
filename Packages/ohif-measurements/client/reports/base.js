@@ -54,7 +54,7 @@ export class BaseReport {
 
         // Print the logo text
         doc.setFont('Serif').setFontSize(16).setFontStyle('normal').setTextColor(0);
-        doc.text('Open Health Imaging Foundation', 66, y + 14);
+        doc.text('IIAI Medical Lab', 66, y + 14);
         y += 24;
 
         // Print header horizontal line

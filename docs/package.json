@@ -1,7 +1,7 @@
 {
   "name": "ohif-viewers-docs",
   "version": "1.0.0",
-  "description": "Open Health Imaging Foundation Viewers Metarepo for documentation",
+  "description": "IIAI Medical Lab Viewers Metarepo for documentation",
   "main": ".eslintrc.js",
   "directories": {
     "doc": "docs"
@@ -25,7 +25,7 @@
     "imaging",
     "viewer"
   ],
-  "author": "Open Health Imaging Foundation",
+  "author": "IIAI Medical Lab",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ShaldonHe/Viewers.git"

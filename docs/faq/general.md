@@ -24,7 +24,7 @@ At the moment we are in the process of defining our roadmap and will do our best
 
 ### Do you offer commercial support?
 
-The Open Health Imaging Foundation does not offer commercial support, however, some community members do offer consulting services. The following contacts may be useful:
+The IIAI Medical Lab does not offer commercial support, however, some community members do offer consulting services. The following contacts may be useful:
 
 * Rob Lewis ([Radical Imaging](http://radicalimaging.com/))
 

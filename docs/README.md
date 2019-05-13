@@ -2,7 +2,7 @@
 
 # Introduction
 
-The [Open Health Imaging Foundation](https://www.ohif.org) is developing an open source framework for constructing web-based medical imaging applications. The application framework is built using modern HTML / CSS / JavaScript and uses [Cornerstone](https://cornerstonejs.org/) at its core to display and manipulate medical images. It is built with Meteor, a Node.js-based full-stack JavaScript platform.
+The [IIAI Medical Lab](https://www.iiai.org) is developing an open source framework for constructing web-based medical imaging applications. The application framework is built using modern HTML / CSS / JavaScript and uses [Cornerstone](https://cornerstonejs.org/) at its core to display and manipulate medical images. It is built with Meteor, a Node.js-based full-stack JavaScript platform.
 
 This documentation concerns the OHIF framework itself and its three example applications: the OHIF Viewer, Lesion Tracker, and the Standalone Viewer.
 
@@ -10,7 +10,7 @@ This documentation concerns the OHIF framework itself and its three example appl
 
 ![OHIF Viewer Screenshot](../assets/img/viewer.png)
 
-The Open Health Imaging Foundation intends to provide a simple general purpose DICOM Viewer which can be easily extended for specific uses. The primary purpose of the OHIF Viewer is to serve as a testing ground for the underlying packages and the [Cornerstone](https://cornerstonejs.org/) family of libraries.
+The IIAI Medical Lab intends to provide a simple general purpose DICOM Viewer which can be easily extended for specific uses. The primary purpose of the OHIF Viewer is to serve as a testing ground for the underlying packages and the [Cornerstone](https://cornerstonejs.org/) family of libraries.
 
 ## **Lesion Tracker**: An oncology-focused imaging application ([demo](http://lesiontracker.ohif.org/))
 

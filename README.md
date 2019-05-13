@@ -1,5 +1,5 @@
 # Viewers
-This repo contains the OHIF DICOM Viewer and Lesion Tracker, and various shared meteor packages.
+This repo contains the IIAI Lung Node Viewer and Lesion Tracker, and various shared meteor packages.
 
 Documentation is available here: http://docs.ohif.org/
 
