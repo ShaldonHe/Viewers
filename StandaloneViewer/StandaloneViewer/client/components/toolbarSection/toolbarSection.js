@@ -222,6 +222,43 @@ Template.toolbarSection.helpers({
             buttonTemplateName: 'layoutButton'
         });
 
+        /* Plugin testing buttons: Only here temporarily */
+        buttonData.push({
+            id: 'reload-VolumeRenderingPlugin',
+            title: 'Volume Rendering',
+            classes: 'imageViewerCommand',
+            iconClasses: 'fa fa-road',
+        });
+
+        buttonData.push({
+            id: 'mprMode',
+            title: '4-up',
+            classes: 'imageViewerCommand',
+            iconClasses: 'fa fa-compress',
+        });
+
+        buttonData.push({
+            id: 'reload-MultiplanarReformattingPlugin-L',
+            title: 'MPR-L',
+            classes: 'imageViewerCommand',
+            iconClasses: 'fa fa-bookmark',
+        });
+
+        buttonData.push({
+            id: 'reload-MultiplanarReformattingPlugin-A',
+            title: 'MPR-A',
+            classes: 'imageViewerCommand',
+            iconClasses: 'fa fa-bookmark',
+        });
+
+        buttonData.push({
+            id: 'reload-MultiplanarReformattingPlugin-S',
+            title: 'MPR-S',
+            classes: 'imageViewerCommand',
+            iconClasses: 'fa fa-bookmark',
+        });
+        /* Plugin testing buttons: Only here temporarily */
+
         buttonData.push({
             id: 'toggleMore',
             title: 'More',
